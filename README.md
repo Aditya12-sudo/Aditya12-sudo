@@ -30,10 +30,8 @@
 <p align="left">About Me 🚀<br>🎓👨‍💻 I’m a coding enthusiast pursuing my B.Tech in Computer Science & Engineering at Sikkim Manipal Institute of Technology.<br><br>💻 I am passionate about Full Stack Development, Java Development with Microservices, and Cloud Computing (Advanced).<br><br>⚙️ I actively work on solving Data Structures & Algorithms problems and consistently participate in Competitive Programming.<br><br>🏆 Competitive Programming Achievements:<br><br>Codechef 3⭐️<br><br>Codeforces Pupil<br><br>LeetCode Active Problem Solver<br><br>💡 I’m always eager to build impactful projects, explore scalable systems, and deepen my knowledge in cloud computing.<br><br>👨‍💻 I love coding, learning new technologies, and staying engaged with the developer community.<br><br>📚 In my free time, you’ll find me solving DSA problems, participating in contests, and exploring new tech trends.<br><br>My Stats 📊</p>
 
 ###
-
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aditya12-sudo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya12-sudo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aditya12-sudo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ###
